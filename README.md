@@ -50,10 +50,9 @@ I’m a **Full-Stack Web Developer** who loves coding, designing, and problem-so
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-
 </br>
 
----
+</br>
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kakha-phutkaradze-1a4b02225/)  
