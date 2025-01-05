@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋 I'm Kakha
 
---
+</br>
 
 ### 🚀 About Me
 
@@ -42,7 +42,7 @@ I’m a **Full-Stack Web Developer** who loves coding, designing, and problem-so
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 
-#
+</br>
 
 ---
 
