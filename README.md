@@ -53,7 +53,7 @@ I’m a **Full-Stack Web Developer** who loves coding, designing, and problem-so
 
 </br>
 
-</br>
+---
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kakha-phutkaradze-1a4b02225/)  
