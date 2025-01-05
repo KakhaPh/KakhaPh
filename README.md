@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 I’m a **Full-Stack Web Developer** who loves coding, designing, and problem-solving!  
 - 🌍 Based in **Tbilisi, Georgia**  
 - 🎓 Studying **Information Technologies** at **European University**.
-- 🎓 Studied **Information Technologies** at **Daugavpils University** in Latvia.
+- 👨🏻‍🎓 Studied **Information Technologies** at **Daugavpils University** in Latvia.
+- 🌱 I’m currently learning nextJS
+- 🔧 I love crafting efficient and elegant code solutions.
+- 📚 Always exploring new technologies and improving my skills.
+- 🌟 Goals: Write impactful code, solve real-world problems, and never stop growing!
 
 ---
 
